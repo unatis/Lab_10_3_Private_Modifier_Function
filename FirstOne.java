@@ -1,4 +1,4 @@
-package com.company;
+package com.company;//Same package as main!!!
 
 public class FirstOne {
 

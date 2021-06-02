@@ -1,4 +1,4 @@
-package com.FirstPack;
+package com.company;
 
 public class FirstOne {
 
@@ -13,3 +13,4 @@ public class FirstOne {
     }
 
 }
+
